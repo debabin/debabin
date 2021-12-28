@@ -10,12 +10,12 @@
 - :fire: &nbsp;I develop for all platforms using **Typescript**
 - :pizza: &nbsp;I'm interested in **Web 3.0**
 - :speech_balloon: &nbsp;Extensive development experience 
-- :writing_hand: &nbsp;Know how to use typescript
+- :writing_hand: &nbsp;Know how to use **[Typescript](https://www.typescriptlang.org/)**
 - :bird: &nbsp;Let's talk more in **[Twitter](https://twitter.com/db_dzo)**
 
 <br>
 
-<h2 align="left" id="hwapedro-stack">Stack</h2>
+<h2 align="left" id="hwapedro-stack">Tech stack</h2>
 
 >  General
  
