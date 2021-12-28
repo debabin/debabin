@@ -1,32 +1,163 @@
-<h1 align="center">Hi 👋, I'm hwapedro hwapedro</h1>
-<h3 align="center">123</h3>
 
-- 🔭 I’m currently working on **1**
+<h1 align="left" id="suhailkakar-title">:wave: Hello there! I'm Dmitry Babin</h1>
+<h4 align="left">I'm a Full-Stack Web Developer from Siberia 🧊</h4>
 
-- 🌱 I’m currently learning **1**
+<a href="#hwapedro-title">
+  <img src="https://github-readme-stats.vercel.app/api?username=hwapedro&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="hwapedro" align="right" />
+</a>
 
-- 👯 I’m looking to collaborate on **1**
+- :office: &nbsp;I'm currently working at **[ЦФТ](https://www.cft.ru/)**
+- :fire: &nbsp;I develop for all platforms using **Typescript**
+- :pizza: &nbsp;I'm interested in **Web 3.0**
+- :speech_balloon: &nbsp;Extensive development experience 
+- :writing_hand: &nbsp;Know how to use typescript
+- :bird: &nbsp;Let's talk more in **[Twitter](https://twitter.com/db_dzo)**
 
-- 🤝 I’m looking for help with **1**
+<br>
 
-- 👨‍💻 All of my projects are available at [1](1)
+<h2 align="left" id="hwapedro-stack">Stack</h2>
 
-- 📝 I regularly write articles on [1](1)
+>  General
+ 
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <a href="#hwapedro-stack">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="#hwapedro-stack">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript"         />
+      </a>
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <a href="#hwapedro-stack" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" width="48" height="48" alt="GraphQL" />
+      </a>
+      <br>GraphQL
+    </td>
+    <td align="center" width="96">
+      <a href="#hwapedro-stack" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>
+    <td align="center" width="96"> 
+      <a href="#hwapedro-stack" >
+        <img src="https://brandeps.com/icon-download/Y/Yarn-icon-vector-03.svg" width="48" height="48" alt="yarn" />
+      </a>
+      <br>Yarn
+    </td>
+    <td align="center" width="96"> 
+      <a href="#hwapedro-stack" >
+        <img src="https://brandeps.com/icon-download/N/Npm-icon-vector-05.svg" width="48" height="48" alt="npm" />
+      </a>
+      <br>Npm
+    </td>
+     <td align="center" width="96"> 
+      <a href="#hwapedro-stack" >
+        <img src="https://brandeps.com/icon-download/G/Github-icon-vector-20.svg" width="48" height="48" alt="github" />
+      </a>
+      <br>Github
+    </td>
+  </tr> 
+</table>
 
-- 💬 Ask me about **1**
 
-- 📫 How to reach me **1**
-
-- 📄 Know about my experiences [1](1)
-
-- ⚡ Fun fact **1**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/db_dzo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="db_dzo" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+>  Frontend
+ 
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <a href="#hwapedro-stack">
+        <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="48" height="48" alt="React" />
+      </a>
+      <br>React JS
+    </td>
+     <td align="center" width="96"> 
+      <a href="#hwapedro-stack" >
+        <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="48" height="48" alt="Redux" />
+      </a>
+      <br>Redux
+    </td>
+          <td align="center" width="96"> 
+      <a href="#hwapedro-stack" >
+        <img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" width="48" height="48" alt="Next JS" />
+      </a>
+      <br>Next JS
+    </td>
+     <td align="center" width="96">
+      <a href="#hwapedro-stack">
+        <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="48" height="48" alt="Material UI" />
+      </a>
+      <br>MUI
+    </td>
+   <td align="center"  width="96">
+      <a href="#hwapedro-stack">
+        <img src="https://static.cdnlogo.com/logos/g/42/gatsby.svg" width="48" height="48" alt="Gatsby" />
+      </a>
+      <br>Gatsby
+    </td>
+   <td align="center" width="96">
+      <a href="#hwapedro-stack">
+        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
+      </a>
+      <br>Bootstrap
+    </td>
+     <td align="center" width="96"> 
+      <a href="#hwapedro-stack" >
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width="48" height="48" alt="css3" />
+      </a>
+      <br>Css3
+    </td>
+  </tr> 
+    <tr>
+    <td align="center" width="96">
+      <a href="#hwapedro-stack">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" width="48" height="48" alt="Html5" />
+      </a>
+      <br>Html5
+    </td>
+     <td align="center" width="96"> 
+      <a href="#hwapedro-stack" >
+        <img src="https://brandeps.com/logo-download/A/Apollo-GraphQL-logo-vector-01.svg" width="48" height="48" alt="Apollo" />
+      </a>
+      <br>Apollo
+    </td>
+          <td align="center" width="96"> 
+      <a href="#hwapedro-stack" >
+        <img src="https://brandeps.com/icon-download/W/Webpack-icon-vector-02.svg" width="48" height="48" alt="Webpack" />
+      </a>
+      <br>Webpack
+    </td>
+     <td align="center" width="96">
+      <a href="#hwapedro-stack">
+        <img src="https://brandeps.com/icon-download/E/Eslint-icon-vector-02.svg" width="48" height="48" alt="Eslint" />
+      </a>
+      <br>Eslint
+    </td>
+   <td align="center"  width="96">
+      <a href="#hwapedro-stack">
+        <img src="https://brandeps.com/icon-download/C/Cypress-icon-vector-01.svg" width="48" height="48" alt="Cypress" />
+      </a>
+      <br>Cypress
+    </td>
+   <td align="center" width="96">
+      <a href="#hwapedro-stack">
+        <img src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" width="48" height="48" alt="Sass" />
+      </a>
+      <br>Sass
+    </td>
+     <td align="center" width="96"> 
+      <a href="#hwapedro-stack" >
+        <img src="https://brandeps.com/icon-download/J/Jest-icon-vector-02.svg" width="48" height="48" alt="Jest" />
+      </a>
+      <br>Jest
+    </td>
+  </tr> 
+</table>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hwapedro&show_icons=true&locale=en&layout=compact" alt="hwapedro" /></p>
