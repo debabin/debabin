@@ -19,7 +19,7 @@
 
 >  General
  
-<table align="center">
+<table width='100%'>
   <tr>
     <td align="center" width="96">
       <a href="#hwapedro-stack">
@@ -35,9 +35,9 @@
     </td>
     <td align="center" width="96">
       <a href="#hwapedro-stack" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" width="48" height="48" alt="GraphQL" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="45" height="45" alt="Figma" />
       </a>
-      <br>GraphQL
+      <br>Figma
     </td>
     <td align="center" width="96">
       <a href="#hwapedro-stack" >
@@ -66,10 +66,46 @@
   </tr> 
 </table>
 
+>  Code quality
+
+<table width='100%'>
+  <tr>
+     <td align="center" width="96">
+      <a href="#hwapedro-stack">
+        <img src="https://brandeps.com/icon-download/E/Eslint-icon-vector-02.svg" width="48" height="48" alt="Eslint" />
+      </a>
+      <br>Eslint
+    </td>
+    <td align="center" width="96">
+      <a href="#hwapedro-stack">
+        <img src="https://brandeps.com/icon-download/P/Prettier-icon-vector-02.svg" width="48" height="48" alt="Prettier" />
+      </a>
+      <br>Prettier
+    </td>
+   <td align="center"  width="96">
+      <a href="#hwapedro-stack">
+        <img src="https://brandeps.com/icon-download/C/Cypress-icon-vector-01.svg" width="48" height="48" alt="Cypress" />
+      </a>
+      <br>Cypress
+    </td>
+    <td align="center" width="96"> 
+      <a href="#hwapedro-stack" >
+        <img src="https://brandeps.com/icon-download/J/Jest-icon-vector-02.svg" width="48" height="48" alt="Jest" />
+      </a>
+      <br>Jest
+    </td>
+    <td align="center" width="96"> 
+      <a href="#hwapedro-stack" >
+        <img src="https://brandeps.com/icon-download/S/Storybook-icon-vector-02.svg" width="48" height="48" alt="Storybook" />
+      </a>
+      <br>Storybook
+    </td>
+  </tr> 
+</table>
 
 >  Frontend
  
-<table align="center">
+<table width='100%'>
   <tr>
     <td align="center" width="96">
       <a href="#hwapedro-stack">
@@ -77,17 +113,23 @@
       </a>
       <br>React JS
     </td>
-     <td align="center" width="96"> 
-      <a href="#hwapedro-stack" >
-        <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="48" height="48" alt="Redux" />
-      </a>
-      <br>Redux
-    </td>
           <td align="center" width="96"> 
       <a href="#hwapedro-stack" >
         <img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" width="48" height="48" alt="Next JS" />
       </a>
       <br>Next JS
+    </td>
+      <td align="center" width="96"> 
+      <a href="#hwapedro-stack" >
+        <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="48" height="48" alt="Redux" />
+      </a>
+      <br>Redux
+    </td>
+    <td align="center" width="96"> 
+      <a href="#hwapedro-stack" >
+        <img src="https://brandeps.com/icon-download/M/Mobx-icon-vector-01.svg" width="48" height="48" alt="Mobx" />
+      </a>
+      <br>Mobx
     </td>
      <td align="center" width="96">
       <a href="#hwapedro-stack">
@@ -133,31 +175,86 @@
       </a>
       <br>Webpack
     </td>
-     <td align="center" width="96">
-      <a href="#hwapedro-stack">
-        <img src="https://brandeps.com/icon-download/E/Eslint-icon-vector-02.svg" width="48" height="48" alt="Eslint" />
-      </a>
-      <br>Eslint
-    </td>
-   <td align="center"  width="96">
-      <a href="#hwapedro-stack">
-        <img src="https://brandeps.com/icon-download/C/Cypress-icon-vector-01.svg" width="48" height="48" alt="Cypress" />
-      </a>
-      <br>Cypress
-    </td>
    <td align="center" width="96">
       <a href="#hwapedro-stack">
         <img src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" width="48" height="48" alt="Sass" />
       </a>
       <br>Sass
-    </td>
-     <td align="center" width="96"> 
-      <a href="#hwapedro-stack" >
-        <img src="https://brandeps.com/icon-download/J/Jest-icon-vector-02.svg" width="48" height="48" alt="Jest" />
+  </tr> 
+</table>
+
+>  Mobile
+ 
+<table width='100%'>
+  <tr>
+    <td align="center" width="96">
+      <a href="#hwapedro-stack">
+        <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="48" height="48" alt="React Native" />
       </a>
-      <br>Jest
+      <br>React Native
     </td>
   </tr> 
 </table>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hwapedro&show_icons=true&locale=en&layout=compact" alt="hwapedro" /></p>
+>  Backend
+ 
+<table width='100%'>
+  <tr>
+    <td align="center" width="96">
+      <a href="#hwapedro-stack" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" width="48" height="48" alt="GraphQL" />
+      </a>
+      <br>GraphQL
+    </td>
+    <td align="center" width="96">
+      <a href="#hwapedro-stack" >
+        <img src="https://brandeps.com/icon-download/M/Mongodb-icon-vector-03.svg" width="48" height="48" alt="Mongo DB" />
+      </a>
+      <br>MongoDB
+    </td>
+    <td align="center" width="96"> 
+      <a href="#hwapedro-stack" >
+        <img src="https://brandeps.com/icon-download/N/Nestjs-icon-vector-01.svg" width="48" height="48" alt="Nestjs" />
+      </a>
+      <br>Nest JS
+    </td>
+    <td align="center" width="96"> 
+      <a href="#hwapedro-stack" >
+        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="48" height="48" alt="Node JS" />
+      </a>
+      <br>Node JS
+    </td>
+     <td align="center" width="96"> 
+      <a href="#hwapedro-stack" >
+        <img src="https://4.bp.blogspot.com/-rtNRVM3aIvI/XJX_U07Z-II/AAAAAAAAJXY/YpdOo490FTgdKOxM4qDG-2-EzcNFAWkKACK4BGAYYCw/s1600/logo%2Bfirebase%2Bicon.png" width="48" height="48" alt="Firebase" />
+      </a>
+      <br>Firebase
+    </td>
+  </tr> 
+</table>
+
+>  Other
+ 
+<table width='100%'>
+  <tr>
+    <td align="center" width="96">
+      <a href="#hwapedro-stack">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1024px-Electron_Software_Framework_Logo.svg.png" width="48" height="48" alt="Electron" />
+      </a>
+      <br>Electron
+    </td>
+  </tr> 
+</table>
+
+## :package: Packages
+- [lodash-omitdeep](https://www.npmjs.com/package/lodash-omitdeep)
+
+## :comet: Contact
+<a href="#hwapedro-title">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=hwapedro&show_icons=true&locale=en&layout=compact&theme=react" alt="hwapedro" />
+</a>
+
+- :bird: &nbsp;**[Twitter](https://twitter.com/db_dzo)**
+- :camera: &nbsp;**[Instagram](https://www.instagram.com/db_dzo/)**
+
+<br>
