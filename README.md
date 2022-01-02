@@ -256,5 +256,5 @@
 
 - :bird: &nbsp;**[Twitter](https://twitter.com/db_dzo)**
 - :camera: &nbsp;**[Instagram](https://www.instagram.com/db_dzo/)**
-
+- :robot: &nbsp;**[Discord](https://discordapp.com/users/181376683046076416/)** 
 <br>
