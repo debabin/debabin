@@ -1,3 +1,8 @@
+<a href="#hwapedro-title">
+  <img src="https://user-images.githubusercontent.com/45297354/149384539-9edfa509-2810-4575-bf93-f35ce1bc5b4c.png" alt="
+      siberiacancode" align="center"/>
+</a>
+
 
 <h1 align="left">:wave: Hello there! I'm Dmitry Babin</h1>
 <h4 align="left">I'm a Full-Stack Web Developer from Siberia 🧊</h4>
