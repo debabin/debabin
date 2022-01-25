@@ -225,13 +225,13 @@
     </td>
     <td align="center" width="96"> 
       <a href="#hwapedro-stack" >
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="48" height="48" alt="Node JS" />
+        <img src="https://brandeps.com/icon-download/N/Nodejs-icon-vector-02.svg" width="48" height="48" alt="Node JS" />
       </a>
       <br>Node JS
     </td>
      <td align="center" width="96"> 
       <a href="#hwapedro-stack" >
-        <img src="https://4.bp.blogspot.com/-rtNRVM3aIvI/XJX_U07Z-II/AAAAAAAAJXY/YpdOo490FTgdKOxM4qDG-2-EzcNFAWkKACK4BGAYYCw/s1600/logo%2Bfirebase%2Bicon.png" width="48" height="48" alt="Firebase" />
+        <img src="https://brandeps.com/logo-download/F/Firebase-logo-vector-02.svg" width="48" height="48" alt="Firebase" />
       </a>
       <br>Firebase
     </td>
