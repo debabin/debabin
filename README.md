@@ -259,6 +259,8 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=hwapedro&show_icons=true&locale=en&layout=compact&theme=react" alt="hwapedro" />
 </a>
 
+- :popcorn: &nbsp;**[Youtube](https://www.youtube.com/channel/UCYimO7BCUwdGiaCXlwG-rLw)**
+- :airplane: &nbsp;**[Telegram](https://t.me/techdnevnik)**
 - :bird: &nbsp;**[Twitter](https://twitter.com/db_dzo)**
 - :camera: &nbsp;**[Instagram](https://www.instagram.com/db_dzo/)**
 - :robot: &nbsp;**[Discord](https://discordapp.com/users/181376683046076416/)** 
