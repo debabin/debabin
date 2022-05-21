@@ -263,6 +263,6 @@
 - :popcorn: &nbsp;**[Rutube](https://rutube.ru/channel/24693196/)**
 - :airplane: &nbsp;**[Telegram](https://t.me/techdnevnik)**
 - :bird: &nbsp;**[Twitter](https://twitter.com/db_dzo)**
-- :camera: &nbsp;**[Instagram](https://www.instagram.com/db_dzo/)**
+- :camera: &nbsp;**[Instagram](https://www.instagram.com/db_babin/)**
 - :robot: &nbsp;**[Discord](https://discordapp.com/users/181376683046076416/)** 
 <br>
