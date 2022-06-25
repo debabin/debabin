@@ -64,9 +64,15 @@
     </td>
      <td align="center" width="96"> 
       <a href="#debabin-stack" >
-        <img src="https://brandeps.com/icon-download/G/Github-icon-vector-20.svg" width="48" height="48" alt="github" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="48" height="48" alt="github" />
       </a>
       <br>Github
+    </td>
+    <td align="center" width="96"> 
+      <a href="#debabin-stack" >
+        <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="48" height="48" alt="github" />
+      </a>
+      <br>Docker
     </td>
   </tr> 
 </table>
@@ -92,6 +98,12 @@
         <img src="https://brandeps.com/icon-download/C/Cypress-icon-vector-01.svg" width="48" height="48" alt="Cypress" />
       </a>
       <br>Cypress
+    </td>
+   <td align="center"  width="96">
+      <a href="#debabin-stack">
+        <img src="https://playwright.dev/img/playwright-logo.svg" width="48" height="48" alt="Cypress" />
+      </a>
+      <br>Playwright
     </td>
     <td align="center" width="96"> 
       <a href="#debabin-stack" >
@@ -185,6 +197,13 @@
         <img src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" width="48" height="48" alt="Sass" />
       </a>
       <br>Sass
+    </td>
+   <td align="center" width="96">
+      <a href="#debabin-stack">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="Sass" />
+      </a>
+      <br>Tailwind
+    </td>
   </tr> 
 </table>
 
@@ -260,7 +279,6 @@
 </a>
 
 - :popcorn: &nbsp;**[Youtube](https://www.youtube.com/channel/UCYimO7BCUwdGiaCXlwG-rLw)**
-- :popcorn: &nbsp;**[Rutube](https://rutube.ru/channel/24693196/)**
 - :airplane: &nbsp;**[Telegram](https://t.me/techdnevnik)**
 - :bird: &nbsp;**[Twitter](https://twitter.com/db_dzo)**
 - :camera: &nbsp;**[Instagram](https://www.instagram.com/db_babin/)**
