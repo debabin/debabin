@@ -70,7 +70,7 @@
     </td>
     <td align="center" width="96"> 
       <a href="#debabin-stack" >
-        <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="48" height="48" alt="github" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="48" height="48" alt="docker" />
       </a>
       <br>Docker
     </td>
@@ -101,7 +101,7 @@
     </td>
    <td align="center"  width="96">
       <a href="#debabin-stack">
-        <img src="https://playwright.dev/img/playwright-logo.svg" width="48" height="48" alt="Cypress" />
+        <img src="https://playwright.dev/img/playwright-logo.svg" width="48" height="48" alt="Playwright" />
       </a>
       <br>Playwright
     </td>
@@ -186,13 +186,19 @@
       </a>
       <br>Apollo
     </td>
-          <td align="center" width="96"> 
+    <td align="center" width="96"> 
       <a href="#debabin-stack" >
         <img src="https://brandeps.com/icon-download/W/Webpack-icon-vector-02.svg" width="48" height="48" alt="Webpack" />
       </a>
       <br>Webpack
     </td>
-   <td align="center" width="96">
+    <td align="center" width="96"> 
+      <a href="#debabin-stack" >
+        <img src="https://vitejs.dev/logo.svg" width="48" height="48" alt="Vite" />
+      </a>
+      <br>Vite
+    </td> 
+    <td align="center" width="96">
       <a href="#debabin-stack">
         <img src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" width="48" height="48" alt="Sass" />
       </a>
@@ -200,7 +206,7 @@
     </td>
    <td align="center" width="96">
       <a href="#debabin-stack">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="Sass" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="Tailwind" />
       </a>
       <br>Tailwind
     </td>
