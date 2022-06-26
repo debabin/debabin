@@ -168,7 +168,7 @@
     </td>
      <td align="center" width="96"> 
       <a href="#debabin-stack" >
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width="48" height="48" alt="css3" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="48" height="48" alt="css3" />
       </a>
       <br>Css3
     </td>
@@ -176,7 +176,7 @@
     <tr>
     <td align="center" width="96">
       <a href="#debabin-stack">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" width="48" height="48" alt="Html5" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="48" height="48" alt="Html5" />
       </a>
       <br>Html5
     </td>
