@@ -230,18 +230,6 @@
  
 <table width='100%'>
   <tr>
-    <td align="center" width="96">
-      <a href="#debabin-stack" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" width="48" height="48" alt="GraphQL" />
-      </a>
-      <br>GraphQL
-    </td>
-    <td align="center" width="96">
-      <a href="#debabin-stack" >
-        <img src="https://brandeps.com/icon-download/M/Mongodb-icon-vector-03.svg" width="48" height="48" alt="Mongo DB" />
-      </a>
-      <br>MongoDB
-    </td>
     <td align="center" width="96"> 
       <a href="#debabin-stack" >
         <img src="https://brandeps.com/icon-download/N/Nestjs-icon-vector-01.svg" width="48" height="48" alt="Nestjs" />
@@ -254,11 +242,35 @@
       </a>
       <br>Node JS
     </td>
+    <td align="center" width="96">
+      <a href="#debabin-stack" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" width="48" height="48" alt="GraphQL" />
+      </a>
+      <br>GraphQL
+    </td>
+    <td align="center" width="96">
+      <a href="#debabin-stack" >
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="Mongo DB" />
+      </a>
+      <br>MongoDB
+    </td>
      <td align="center" width="96"> 
       <a href="#debabin-stack" >
         <img src="https://brandeps.com/logo-download/F/Firebase-logo-vector-02.svg" width="48" height="48" alt="Firebase" />
       </a>
       <br>Firebase
+    </td>
+      <td align="center" width="96"> 
+      <a href="#debabin-stack" >
+        <img src="https://brandeps.com/icon-download/P/Prisma-icon-vector-01.svg" width="48" height="48" alt="Prisma" />
+      </a>
+      <br>Prisma
+    </td>
+      <td align="center" width="96"> 
+      <a href="#debabin-stack" >
+        <img src="https://trpc.io/img/logo.svg" width="48" height="48" alt="tRPC" />
+      </a>
+      <br>tRPC
     </td>
   </tr> 
 </table>
@@ -284,9 +296,11 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=debabin&show_icons=true&locale=en&layout=compact&theme=react" alt="debabin" />
 </a>
 
-- :popcorn: &nbsp;**[Youtube](https://www.youtube.com/channel/UCYimO7BCUwdGiaCXlwG-rLw)**
-- :airplane: &nbsp;**[Telegram](https://t.me/techdnevnik)**
+- :comet: &nbsp;**[Github](https://github.com/debabin)**
+- :airplane: &nbsp;**[Telegram](https://t.me/siberiacancode)**
+- :popcorn: &nbsp;**[Youtube](https://www.youtube.com/c/SIBERIACANCODE)**
+- :robot: &nbsp;**[Discord](https://discord.gg/VqubFtXM)**
 - :bird: &nbsp;**[Twitter](https://twitter.com/db_dzo)**
 - :camera: &nbsp;**[Instagram](https://www.instagram.com/db_babin/)**
-- :robot: &nbsp;**[Discord](https://discordapp.com/users/181376683046076416/)** 
+
 <br>
