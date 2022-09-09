@@ -13,10 +13,10 @@
 
 - :office: &nbsp;I'm currently working at **[ЦФТ](https://www.cft.ru/)**
 - :fire: &nbsp;I develop for all platforms using **Typescript**
-- :pizza: &nbsp;I'm interested in **Web 3.0**
+- :popcorn: &nbsp;My **[youtube channel](https://www.youtube.com/c/SIBERIACANCODE)**
 - :speech_balloon: &nbsp;Extensive development experience 
 - :writing_hand: &nbsp;Know how to use **[Typescript](https://www.typescriptlang.org/)**
-- :bird: &nbsp;Let's talk more in **[Twitter](https://twitter.com/db_dzo)**
+- :airplane: &nbsp;Let's talk more in **[Telegram](https://t.me/siberiacancode)**
 
 <br>
 
