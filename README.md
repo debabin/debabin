@@ -7,8 +7,8 @@
 <h1 align="left">:wave: Hello there! I'm Dmitry Babin</h1>
 
 <div>
-<a target="_blank" href="https://discord.gg/VqubFtXM"><img alt="Discord Online" src="https://img.shields.io/discord/1015937618648772658.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2"></a>
-<a target="_blank" href="https://www.youtube.com/channel/UCYimO7BCUwdGiaCXlwG-rLw"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCYimO7BCUwdGiaCXlwG-rLw"></a>
+<a href="https://discord.gg/VqubFtXM"><img alt="Discord Online" src="https://img.shields.io/discord/1015937618648772658.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2"></a>
+<a href="https://www.youtube.com/channel/UCYimO7BCUwdGiaCXlwG-rLw"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCYimO7BCUwdGiaCXlwG-rLw"></a>
 </div>
 
 <h4 align="left">I'm a Full-Stack Web Developer from Siberia 🧊</h4>
