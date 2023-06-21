@@ -27,7 +27,7 @@ Frontend Developer from Siberia 🧊
 
 - ### [🎉 Mock Config Server](https://www.npmjs.com/package/mock-config-server)
   tool that easily and quickly imitates server operation, create full fake api in few steps
-- ### [Lodash Omitdeep](https://www.npmjs.com/package/lodash-omitdeep)
+- ### [♻️ Lodash Omitdeep](https://www.npmjs.com/package/lodash-omitdeep)
   lodash-omitdeep allows you to execute lodash omit, omitBy functions recursively
 
 <br>
