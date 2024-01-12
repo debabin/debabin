@@ -25,11 +25,11 @@ Frontend Developer from Siberia 🧊
 
 ## [🧊 Siberia Can Code 📦 Packages](https://github.com/siberiacancode)
 
-- ### [🎉 Mock Config Server](https://www.npmjs.com/package/mock-config-server)
+- ### [🎉 Mock Config Server](https://github.com/siberiacancode/mock-config-server)
   tool that easily and quickly imitates server operation, create full fake api in few steps
-- ### [🔑 React Google ReCaptcha Ultimate](https://www.npmjs.com/package/react-google-recaptcha-ultimate)
+- ### [🔑 Google ReCaptcha Ultimate](https://github.com/siberiacancode/google-recaptcha)
   tool that easily and quickly add Google ReCaptcha for your website or application
-- ### [♻️ Lodash Omitdeep](https://www.npmjs.com/package/lodash-omitdeep)
+- ### [♻️ Lodash Omitdeep](https://github.com/siberiacancode/lodash-omitdeep)
   lodash-omitdeep allows you to execute lodash omit, omitBy functions recursively
 
 <br>
