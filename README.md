@@ -179,9 +179,9 @@ Frontend Developer from Siberia 🧊
   <tr>
    <td align="center" width="110" height="90">
       <a href="#debabin-stack">
-        <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="36" height="36" alt="React" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="36" height="36" alt="React" />
       </a>
-      <br>React JS
+      <br>React
     </td>
      <td align="center" width="110" height="90">
       <a href="#debabin-stack" >
@@ -247,7 +247,7 @@ Frontend Developer from Siberia 🧊
     </td>
    <td align="center" width="110" height="90">
       <a href="#debabin-stack">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="36" height="36" alt="Tailwind" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="36" height="36" alt="Tailwind" />
       </a>
       <br>Tailwind
     </td>
