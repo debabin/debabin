@@ -29,8 +29,8 @@ Frontend Developer from Siberia 🧊
   tool that easily and quickly imitates server operation, create full fake api in few steps
 - ### [🔑 Google ReCaptcha](https://github.com/siberiacancode/google-recaptcha)
   tool that easily and quickly add Google ReCaptcha for your website or application
-- ### [📸 React Webcam Ultimate](https://github.com/siberiacancode/react-webcam-ultimate)
-  ultimate tool for working with media stream and displaying it in your react application
+- ### [📸 Webcam](https://github.com/siberiacancode/webcam)
+  ultimate tool for working with media stream and displaying it in your application
 - ### [♻️ Lodash Omitdeep](https://github.com/siberiacancode/lodash-omitdeep)
   lodash-omitdeep allows you to execute lodash omit, omitBy functions recursively
 
