@@ -25,15 +25,15 @@ Frontend Developer from Siberia 🧊
 
 ## [🧊 Siberia Can Code 📦 Packages](https://github.com/siberiacancode)
 
-- ### [🌌 Reactuse](https://github.com/siberiacancode/reactuse)
+- ### [🌌 reactuse](https://github.com/siberiacancode/reactuse)
   the largest and most useful hook library
-- ### [🎉 Mock Config Server](https://github.com/siberiacancode/mock-config-server)
+- ### [🎉 mock-config-server](https://github.com/siberiacancode/mock-config-server)
   tool that easily and quickly imitates server operation, create full fake api in few steps
-- ### [🔑 Google ReCaptcha](https://github.com/siberiacancode/google-recaptcha)
+- ### [🔑 google-recaptcha](https://github.com/siberiacancode/google-recaptcha)
   tool that easily and quickly add Google ReCaptcha for your website or application
-- ### [📸 Webcam](https://github.com/siberiacancode/webcam)
+- ### [📸 webcam](https://github.com/siberiacancode/webcam)
   ultimate tool for working with media stream and displaying it in your application
-- ### [♻️ Lodash Omitdeep](https://github.com/siberiacancode/lodash-omitdeep)
+- ### [♻️ lodash-omitdeep](https://github.com/siberiacancode/lodash-omitdeep)
   lodash-omitdeep allows you to execute lodash omit, omitBy functions recursively
 
 <br>
