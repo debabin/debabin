@@ -25,6 +25,8 @@ Frontend Developer from Siberia 🧊
 
 ## [🧊 Siberia Can Code 📦 Packages](https://github.com/siberiacancode)
 
+- ### [🌌 Reactuse](https://github.com/siberiacancode/reactuse)
+  the largest and most useful hook library
 - ### [🎉 Mock Config Server](https://github.com/siberiacancode/mock-config-server)
   tool that easily and quickly imitates server operation, create full fake api in few steps
 - ### [🔑 Google ReCaptcha](https://github.com/siberiacancode/google-recaptcha)
