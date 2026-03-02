@@ -16,10 +16,10 @@
 
 Frontend Developer from Siberia 🧊
 
-- :office: &nbsp;I'm currently working at **[ЦФТ](https://www.cft.ru/)**
+- :office: &nbsp;I'm currently working at **[koronatech](https://koronatech.ru/)**
 - :fire: &nbsp;I develop for all platforms using **[Typescript](https://www.typescriptlang.org/)**
 - :popcorn: &nbsp;My **[youtube channel](https://www.youtube.com/c/SIBERIACANCODE)**
-- :airplane: &nbsp;Let's talk more in **[Telegram](https://t.me/siberiacancode)**
+- :airplane: &nbsp;Let's talk more in **[telegram](https://t.me/siberiacancode)**
 
 <br>
 
@@ -44,9 +44,9 @@ Frontend Developer from Siberia 🧊
 
 ## ☄️ Contact
 
-- :popcorn: &nbsp;**[Youtube](https://www.youtube.com/c/SIBERIACANCODE)**
-- :popcorn: &nbsp;**[Twitch](https://www.twitch.tv/siberiacancode)**
-- :airplane: &nbsp;**[Telegram](https://t.me/siberiacancode)**
-- :comet: &nbsp;**[Github](https://github.com/debabin)**
+- :popcorn: &nbsp;**[youtube](https://www.youtube.com/c/SIBERIACANCODE)**
+- :popcorn: &nbsp;**[twitch](https://www.twitch.tv/siberiacancode)**
+- :airplane: &nbsp;**[telegram](https://t.me/siberiacancode)**
+- :comet: &nbsp;**[github](https://github.com/debabin)**
 
 <br>
